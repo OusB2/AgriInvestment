@@ -11,6 +11,7 @@ val LightGray = Color(0xFFF5F7FA)
 val TextPrimary = Color(0xFF1F2937)
 val SuccessGreen = Color(0xFF00C853)
 val ErrorRed = Color(0xFFE53935)
+val SkyBlueLight = Color(0xFFDCEFFB)
 
 // Nuances utilitaires dérivées
 val ForestGreenDark = Color(0xFF123D15)
